@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+    font-size: 60px;
+    background: gray;
+}
+/* 
+    seletor: h1
+    declaration: { }
+    properties: color, font-size, background
+    property value: blue, 60px, gray
